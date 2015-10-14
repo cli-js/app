@@ -1,0 +1,31 @@
+{
+  "name": "@cli/app",
+  "version": "0.3.0",
+  "description": "a",
+  "main": "index.js",
+  "dependencies": {
+    "as-array": "^2.0.0",
+    "ramda": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo '1'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cli-js/app.git"
+  },
+  "keywords": [
+    "cli",
+    "command",
+    "flag",
+    "line",
+    "interface"
+  ],
+  "author": "Scott Corgan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cli-js/app/issues"
+  },
+  "homepage": "https://github.com/cli-js/app#readme"
+}
